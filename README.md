@@ -1,45 +1,55 @@
-<!-- Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi%20👋,%20I'm%20Yasin%20Saberi&fontSize=40&fontAlignY=35&animation=fadeIn&desc=Aspiring%20DevOps%20Engineer%20|%20Computer%20Engineering%20Student%20@IUT&descAlignY=55&descAlign=50"/>
-</p>
+# Hi there 👋
 
-<!-- Typing Effect -->
+### Computer Engineering student at Isfahan University of Technology (IUT)
+### Passionate about Linux, Cloud, and Automation
+
+---
+
+## 🚀 About Me
+
+I'm a computer engineering student with a strong passion for **Linux, Cloud, and automation**. I'm on a journey to become a **DevOps Engineer**, focusing on building scalable and automated systems that bridge the gap between development and operations.
+
+I'm always learning new technologies and seeking out opportunities to apply them to real-world projects.
+
+---
+
+## 🛠️ Skills & Tools
+
+I'm proficient in the following technologies and tools:
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=DevOps+Engineer+in+progress;Linux+%26+Cloud+Enthusiast;Always+learning+new+technologies" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,git,linux,docker" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,terraform" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me  
+## 💻 My Projects
 
-- 🎓 Computer Engineering student at **Isfahan University of Technology (IUT)**  
-- 🚀 On a journey to become a **DevOps Engineer**  
-- ☁️ Passionate about **Linux, Cloud, and Automation**  
+Here are some of the projects I'm proud of. Check them out to see my skills in action!
 
----
+- **Project Name 1:** A brief description of the project (e.g., a web application, a CI/CD pipeline, a script for automation).
+  - **Technologies:** `Python`, `Docker`, `AWS`
+  - **Link:** [Link to the repository](https://github.com/YasinSaberi/repo1)
 
-## 🛠️ Skills & Tools  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,git,linux,mysql,docker,vscode" />
-</p>
+- **Project Name 2:** A brief description of the project.
+  - **Technologies:** `Linux`, `Shell Scripting`, `Terraform`
+  - **Link:** [Link to the repository](https://github.com/YasinSaberi/repo2)
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YasinSaberi&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinSaberi&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=YasinSaberi&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yasin-saberi-1016a730a">
@@ -52,15 +62,7 @@
 
 ---
 
-## ⚡ Fun Stuff  
-
-<p align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="400" alt="Coding GIF"/>
-</p>
-
----
-
-## 🐍 Contribution Snake  
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img src="https://github.com/YasinSaberi/YasinSaberi/blob/output/github-contribution-grid-snake.svg" alt="snake gif" />
@@ -68,7 +70,6 @@
 
 ---
 
-<!-- Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
