@@ -18,13 +18,6 @@
 
 ---
 
-## 🌱 A Little Extra  
-💡 Always curious about new technologies  
-☕ Coffee-powered learner  
-⚡ Fun fact: My favorite way to relax is exploring tech communities and learning new tools  
-
----
-
 ## 📬 Connect with Me  
 - LinkedIn: www.linkedin.com/in/yasin-saberi-1016a730a 
 - Telegram: t.me/Yas_Saberi
