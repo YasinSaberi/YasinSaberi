@@ -20,10 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinSaberi&layout=compact&theme=radical" height="150"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YasinSaberi&theme=radical&hide_border=true" height="150"/>
-</p>
-
 ---
 
 ## 📬 Connect with Me  
