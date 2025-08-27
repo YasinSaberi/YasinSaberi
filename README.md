@@ -27,10 +27,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinSaberi&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YasinSaberi&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
 ---
 
 ## 🌐 Connect with Me  
