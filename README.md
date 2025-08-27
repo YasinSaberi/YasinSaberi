@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Yasin Saberi  
 
-<!--
-**YasinSaberi/YasinSaberi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering student at **Isfahan University of Technology (IUT)**  
+🚀 Aspiring **DevOps Engineer** | Currently learning **DevOps**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools  
+- **Languages:** Python · C/C++ · SQL Server · MySQL  
+- **Tools & Platforms:** Docker · Git · Linux  
+
+---
+
+## 📊 GitHub Stats  
+![Yasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasinSaberi&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinSaberi&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=YasinSaberi&theme=radical&hide_border=true)
+
+---
+
+## 🌱 A Little Extra  
+💡 Always curious about new technologies  
+☕ Coffee-powered learner  
+⚡ Fun fact: My favorite way to relax is exploring tech communities and learning new tools  
+
+---
+
+## 📬 Connect with Me  
+- LinkedIn: [Your LinkedIn URL here]  
+- Email: [Your email here]  
