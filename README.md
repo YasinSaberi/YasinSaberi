@@ -26,5 +26,5 @@
 ---
 
 ## 📬 Connect with Me  
-- LinkedIn: [Your LinkedIn URL here]  
-- Email: [Your email here]  
+- LinkedIn: www.linkedin.com/in/yasin-saberi-1016a730a 
+- Telegram: t.me/Yas_Saberi
