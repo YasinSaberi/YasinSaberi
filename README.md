@@ -6,18 +6,33 @@
 ---
 
 ## 🛠️ Skills & Tools  
-- **Languages:** Python · C/C++ · SQL Server · MySQL  
-- **Tools & Platforms:** Docker · Git · Linux  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,git,linux,mysql,docker" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
-![Yasin's GitHub stats](https://github-readme-stats.vercel.app/api?username=YasinSaberi&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinSaberi&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=YasinSaberi&theme=radical&hide_border=true)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YasinSaberi&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinSaberi&layout=compact&theme=radical" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YasinSaberi&theme=radical&hide_border=true" height="150"/>
+</p>
 
 ---
 
 ## 📬 Connect with Me  
-- LinkedIn: www.linkedin.com/in/yasin-saberi-1016a730a 
-- Telegram: t.me/:Yas_Saberi
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yasin-saberi-1016a730a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://t.me/Yas_Saberi">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+</p>
