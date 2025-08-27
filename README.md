@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Yasin Saberi  
-
-🎓 Computer Engineering student at **Isfahan University of Technology (IUT)**  
-🚀 Aspiring **DevOps Engineer** | Currently learning **DevOps**  
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Yasin%20Saberi%20👋&fontSize=40&fontAlignY=35&animation=twinkling&desc=Aspiring%20DevOps%20Engineer%20|%20Computer%20Engineering%20Student&descAlignY=55&descAlign=50"/>
+</p>
 
 ---
 
@@ -31,4 +31,9 @@
   <a href="https://t.me/Yas_Saberi">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+</p>
+
+<!-- Footer Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
