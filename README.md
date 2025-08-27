@@ -9,7 +9,6 @@
 
 - 🎓 Computer Engineering student at **Isfahan University of Technology (IUT)**  
 - 🚀 On a journey to become a **DevOps Engineer**  
-- ☕ Fueled by coffee, curiosity, and Linux  
 
 ---
 
@@ -42,9 +41,6 @@
   </a>
   <a href="https://t.me/Yas_Saberi">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
