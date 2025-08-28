@@ -18,7 +18,7 @@ I'm always learning new technologies and seeking out opportunities to apply them
 I'm proficient in the following technologies and tools:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,cs,git,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,git,linux,docker" />
   <br>
   <img src="https://skillicons.dev/icons?i=kubernetes" />
 </p>
