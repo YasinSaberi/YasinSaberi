@@ -4,11 +4,11 @@
 
 <div align="center">
 
-### Hi there, I'm Yasin 👋
+### Hello World! I'm Yasin 👋
 
-#### Passionate about Linux, Cloud, and Automation
+#### Passionate about **Linux**, **Cloud**, and **Automation**
 
-I'm a computer engineering student at Isfahan University of Technology (IUT) on a journey to become a **DevOps Engineer**. I love building scalable, automated systems and bridging the gap between development and operations. I continually explore new technologies and apply them to real-world challenges.
+I'm a Computer Engineering student at Isfahan University of Technology (IUT), dedicated to becoming a **DevOps Engineer** ⚙️. I thrive on building scalable, automated systems that elegantly bridge the gap between development and operations. I continually explore new technologies and eagerly apply them to real-world challenges.
 
 </div>
 
@@ -20,23 +20,17 @@ Here are some of the technologies I work with:
 
 <table width="100%">
   <tr>
-    <td align="center" width="180">
+    <td align="center">
       <h4>Languages</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=python,cpp,bash" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=python,cpp,bash" /><br/>
     </td>
-    <td align="center" width="180">
+    <td align="center">
       <h4>DevOps & Cloud</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" /><br/>
     </td>
-    <td align="center" width="180">
+    <td align="center">
       <h4>Tools & Platform</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,vim" />
-      </a>
+      <img src="https://skillicons.dev/icons?i=git,github,vim" /><br/>
     </td>
   </tr>
 </table>
@@ -46,8 +40,12 @@ Here are some of the technologies I work with:
 ## 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasinSaberi&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinSaberi&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YasinSaberi&show_icons=true&theme=tokyonight&layout=compact" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinSaberi&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YasinSaberi&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </p>
 
 ---
@@ -55,11 +53,10 @@ Here are some of the technologies I work with:
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yasin-saberi-1016a730a">
+  <a href="https://www.linkedin.com/in/yasin-saberi-1016a730a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
-  <a href="https://t.me/Yas_Saberi">
+  <a href="https://t.me/Yas_Saberi" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
