@@ -20,22 +20,8 @@ I'm proficient in the following technologies and tools:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,git,linux,docker" />
   <br>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,terraform" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" />
 </p>
-
----
-
-## 💻 My Projects
-
-Here are some of the projects I'm proud of. Check them out to see my skills in action!
-
-- **Project Name 1:** A brief description of the project (e.g., a web application, a CI/CD pipeline, a script for automation).
-  - **Technologies:** `Python`, `Docker`, `AWS`
-  - **Link:** [Link to the repository](https://github.com/YasinSaberi/repo1)
-
-- **Project Name 2:** A brief description of the project.
-  - **Technologies:** `Linux`, `Shell Scripting`, `Terraform`
-  - **Link:** [Link to the repository](https://github.com/YasinSaberi/repo2)
 
 ---
 
