@@ -10,8 +10,6 @@
 
 I'm a computer engineering student at Isfahan University of Technology (IUT) on a journey to become a **DevOps Engineer**. I love building scalable, automated systems and bridging the gap between development and operations. I'm constantly exploring new technologies and applying them to real-world challenges.
 
-🌱 I’m currently learning **[Enter a technology you're learning, e.g., Terraform, AWS, etc.]**.
-
 </div>
 
 ---
@@ -31,13 +29,13 @@ Here are some of the technologies I work with:
     <td align="center" width="180">
       <h4>DevOps & Cloud</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,ansible,terraform" />
+        <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" />
       </a>
     </td>
     <td align="center" width="180">
       <h4>Tools & Platform</h4>
       <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=git,github,githubactions,vim" />
+        <img src="https://skillicons.dev/icons?i=git,github,vim" />
       </a>
     </td>
   </tr>
