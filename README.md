@@ -48,14 +48,6 @@ I'm proficient in the following technologies and tools:
 
 ---
 
-## 🐍 Contribution Snake  
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YasinSaberi/YasinSaberi/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
