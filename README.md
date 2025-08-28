@@ -6,23 +6,18 @@
 
 ### Hello World! I'm Yasin 👋
 
-> A Computer Engineering student from IUT passionate about **Linux**, **Cloud**, and **Automation**. <br/> My goal is to become a **DevOps Engineer** ⚙️, focusing on building scalable and automated systems.
+#### Passionate about **Linux**, **Cloud**, and **Automation**
+
+I'm a Computer Engineering student at Isfahan University of Technology (IUT), dedicated to becoming a **DevOps Engineer** ⚙️. I thrive on building scalable, automated systems that elegantly bridge the gap between development and operations. I continually explore new technologies and eagerly apply them to real-world challenges.
 
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinSaberi&layout=compact&theme=tokyonight&hide_border=true&card_width=270" height="150"/>
-</p>
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/themes/tokyonight/border.svg" width="100%">
-</p>
+## 🛠️ My Tech Stack
 
-### 🛠️ My Tech Stack
+Here are some of the technologies I work with:
 
-<details>
-<summary>Click to expand my toolbox</summary>
-<br>
 <table width="100%">
   <tr>
     <td align="center">
@@ -39,43 +34,23 @@
     </td>
   </tr>
 </table>
-</details>
+
+---
+
+## 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/themes/tokyonight/border.svg" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=YasinSaberi&show_icons=true&theme=tokyonight&layout=compact" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinSaberi&layout=compact&theme=tokyonight" height="180"/>
 </p>
-
-### 🚀 My Projects
-
-*I'm currently working on showcasing my best projects. Stay tuned!*
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/themes/tokyonight/border.svg" width="100%">
-</p>
-
-### 📊 My GitHub Stats & Activity
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=YasinSaberi&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasinSaberi&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YasinSaberi&style=flat-square&color=blueviolet" alt="Profile Views"/>
 </p>
 
+---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/themes/tokyonight/border.svg" width="100%">
-</p>
-
-### 🌐 Connect with Me
+## 🌐 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yasin-saberi-1016a730a" target="_blank">
@@ -85,6 +60,8 @@
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
