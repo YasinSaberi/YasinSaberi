@@ -52,10 +52,6 @@ Here are some of the technologies I work with:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YasinSaberi&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YasinSaberi&style=flat-square&color=blueviolet" alt="Profile Views"/>
-</p>
-
 ---
 
 ## 🌐 Connect with Me
