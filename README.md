@@ -30,7 +30,6 @@ I'm proficient in the following technologies and tools:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YasinSaberi&show_icons=true&theme=tokyonight" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinSaberi&layout=compact&theme=tokyonight" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=YasinSaberi&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
