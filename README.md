@@ -4,7 +4,7 @@
 
 <div align="center">
 
-### Hello World! I'm Yasin 👋
+### Hello! I'm Yasin 👋
 
 #### Passionate about **Linux**, **Cloud**, and **Automation**
 
