@@ -6,9 +6,9 @@
 
 ### Hello! I'm Yasin 👋
 
-#### Passionate about **Linux**, **Cloud**, and **Automation**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Passionate+about+Data+Engineering;SQL+Server+Enthusiast;Building+Robust+Data+Pipelines" alt="Typing SVG" />
 
-I'm a Computer Engineering student at Isfahan University of Technology (IUT), dedicated to becoming a **DevOps Engineer** ⚙️. I thrive on building scalable, automated systems that elegantly bridge the gap between development and operations. I continually explore new technologies and eagerly apply them to real-world challenges.
+I'm a Computer Engineering student at Isfahan University of Technology (IUT), dedicated to becoming a **Data Engineer** 📊. I thrive on designing scalable data pipelines, optimizing complex databases, and transforming raw data into actionable insights that drive strategic decisions. 
 
 </div>
 
@@ -16,19 +16,22 @@ I'm a Computer Engineering student at Isfahan University of Technology (IUT), de
 
 ## 🛠️ My Tech Stack
 
-Here are some of the technologies I work with:
-
 <table width="100%">
   <tr>
-    <td align="center">
+    <td align="center" width="25%">
+      <h4>Data Engineering</h4>
+      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+    </td>
+    <td align="center" width="25%">
       <h4>Languages</h4>
       <img src="https://skillicons.dev/icons?i=python,cpp,bash" /><br/>
     </td>
-    <td align="center">
+    <td align="center" width="25%">
       <h4>DevOps & Cloud</h4>
       <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes" /><br/>
     </td>
-    <td align="center">
+    <td align="center" width="25%">
       <h4>Tools & Platform</h4>
       <img src="https://skillicons.dev/icons?i=git,github,vim" /><br/>
     </td>
@@ -37,15 +40,19 @@ Here are some of the technologies I work with:
 
 ---
 
-## 📊 My GitHub Stats & Activity
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasinSaberi&show_icons=true&theme=tokyonight&layout=compact" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinSaberi&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YasinSaberi&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true" alt="YasinSaberi Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YasinSaberi&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YasinSaberi&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinSaberi&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YasinSaberi&style=for-the-badge&color=8A2BE2" alt="Profile Views"/>
 </p>
 
 ---
