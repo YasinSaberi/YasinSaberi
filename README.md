@@ -46,10 +46,6 @@ I am highly motivated to transition into a **Data Engineer** role, focusing on d
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YasinSaberi&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true" alt="YasinSaberi Trophies" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YasinSaberi&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinSaberi&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
