@@ -31,7 +31,6 @@ I am highly motivated to transition into a **Data Engineer** role, focusing on d
     </td>
     <td align="center" width="25%">
       <h4>DevOps & OS</h4>
-      <img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=pop!_os&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     </td>
@@ -41,15 +40,6 @@ I am highly motivated to transition into a **Data Engineer** role, focusing on d
     </td>
   </tr>
 </table>
-
----
-
-## 🚀 Featured Projects
-
-| 🌤️ Automated Data Pipeline | 🤖 AI Product Recommendation System |
-| :--- | :--- |
-| **Stack:** Python, Pandas, Docker, SQL Server<br><br>An automated pipeline that extracts weather and financial market data, transforms it, and loads it into a containerized SQL Server database. | **Stack:** AI, DevOps, Python<br><br>A group project building an intelligent product package recommendation system, featuring full DevOps integration and AI-driven insights. |
-| [🔗 View Repository](#) | [🔗 View Repository](#) |
 
 ---
 
