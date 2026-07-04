@@ -1,52 +1,56 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=250&section=header&text=Yasin%20Saberi&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Computer%20Engineering%20Student%20at%20IUT&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Yasin%20Saberi&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20Student%20at%20IUT&descAlignY=55&descAlign=50"/>
 </p>
 
 <div align="center">
 
 ### Hello! I'm Yasin 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Passionate+about+Data+Engineering;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Passionate+about+Data+Engineering;Building+reliable+data+pipelines;Always+learning+something+new" alt="Typing SVG" />
 
-I am a Computer Engineering student at **Isfahan University of Technology (IUT)**. 
-I am highly motivated to transition into a **Data Engineer** role, focusing on designing, building, and optimizing data infrastructure.
+I'm a Computer Engineering student at **Isfahan University of Technology (IUT)**, highly motivated to transition into a **Data Engineer** role — focused on designing, building, and optimizing data infrastructure and pipelines.
 
 </div>
 
----
+<br/>
 
 ## 🛠️ My Tech Stack
 
 <table width="100%">
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <h4>Databases</h4>
       <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <h4>Data Processing & BI</h4>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
+      <h4>Orchestration</h4>
+      <img src="https://img.shields.io/badge/Kestra-8405FF?style=for-the-badge&logo=kestra&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+    </td>
+    <td align="center" width="20%">
       <h4>DevOps & OS</h4>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br/><br/>
       <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <h4>Tools</h4>
       <img src="https://skillicons.dev/icons?i=git,github,bash,vim" />
     </td>
   </tr>
 </table>
 
----
+<br/>
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasinSaberi&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YasinSaberi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasinSaberi&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
@@ -66,7 +70,7 @@ I am highly motivated to transition into a **Data Engineer** role, focusing on d
   <img src="https://komarev.com/ghpvc/?username=YasinSaberi&style=for-the-badge&color=8A2BE2" alt="Profile Views"/>
 </p>
 
----
+<br/>
 
 ## 🌐 Connect with Me
 
@@ -79,8 +83,6 @@ I am highly motivated to transition into a **Data Engineer** role, focusing on d
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </p>
