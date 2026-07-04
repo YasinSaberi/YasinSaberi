@@ -6,7 +6,7 @@
 
 ### Hello! I'm Yasin 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Passionate+about+Data+Engineering;SQL+Server+Enthusiast;Building+Robust+Data+Pipelines" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=Passionate+about+Data+Engineering;" alt="Typing SVG" />
 
 I am a Computer Engineering student at **Isfahan University of Technology (IUT)**. 
 I am highly motivated to transition into a **Data Engineer** role, focusing on designing, building, and optimizing data infrastructure.
