@@ -10,6 +10,8 @@
 
 👋 I'm a Computer Engineering student at **Isfahan University of Technology (IUT)**, working toward a career in **Data Engineering** — designing, building, and optimizing the pipelines and infrastructure that turn raw data into something useful.
 
+I care about **reliable, observable pipelines** more than flashy dashboards — if a job runs at 3am and nobody has to think about it, I consider that a win. Right now I'm deepening my skills in orchestration and data modeling, and I'm always up for talking shop about ETL design, data warehousing, or workflow automation.
+
 <br/>
 
 <img src="https://img.shields.io/badge/🎓_Student-Isfahan_University_of_Technology-6A11CB?style=flat-square&labelColor=1a1a2e"/>
@@ -17,6 +19,38 @@
 <img src="https://img.shields.io/badge/📍_Iran-Isfahan-2575FC?style=flat-square&labelColor=1a1a2e"/>
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2575FC&height=2&width=1000"/>
+
+## 🚀 Featured Projects
+
+<!--
+  Fill in with your real repos — 2 to 4 max, your strongest work.
+  Keep each description to one line: the data problem solved + tools used.
+  Example:
+  ### [Sales ETL Pipeline](https://github.com/YasinSaberi/sales-etl-pipeline)
+  Automated ETL pipeline ingesting daily sales CSVs, transforming with Pandas, orchestrated via Kestra, and loaded into SQL Server for BI reporting.
+  `Python` `Kestra` `SQL Server` `Pandas`
+-->
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔹 Project Name</h3>
+      <p>One-line description: the data problem solved and the tools used to solve it.</p>
+      <code>Python</code> <code>Airflow</code> <code>SQL Server</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔹 Project Name</h3>
+      <p>One-line description: the data problem solved and the tools used to solve it.</p>
+      <code>Kestra</code> <code>Docker</code> <code>Power BI</code>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><i>📌 More on my <a href="https://github.com/YasinSaberi?tab=repositories">pinned repositories</a></i></p>
 
 <br/>
 
@@ -59,6 +93,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2575FC&height=2&width=1000"/>
 
+## 🌱 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+</p>
+
+<p align="center"><i>🎯 Goal: build a full end-to-end pipeline — ingestion → transformation → warehouse → dashboard — and document it as a portfolio case study.</i></p>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2575FC&height=2&width=1000"/>
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -95,6 +143,11 @@
   <a href="https://t.me/Yas_Saberi" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
+  <!-- Add an email badge once you're comfortable listing one publicly:
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  -->
 </p>
 
 <p align="center">
