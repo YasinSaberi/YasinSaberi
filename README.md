@@ -24,17 +24,6 @@ I care about **reliable, observable pipelines** more than flashy dashboards — 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2575FC&height=2&width=1000"/>
 
-## 🚀 Featured Projects
-
-<!--
-  Fill in with your real repos — 2 to 4 max, your strongest work.
-  Keep each description to one line: the data problem solved + tools used.
-  Example:
-  ### [Sales ETL Pipeline](https://github.com/YasinSaberi/sales-etl-pipeline)
-  Automated ETL pipeline ingesting daily sales CSVs, transforming with Pandas, orchestrated via Kestra, and loaded into SQL Server for BI reporting.
-  `Python` `Kestra` `SQL Server` `Pandas`
--->
-
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
