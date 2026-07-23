@@ -24,20 +24,6 @@ I care about **reliable, observable pipelines** more than flashy dashboards — 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6A11CB,100:2575FC&height=2&width=1000"/>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔹 Project Name</h3>
-      <p>One-line description: the data problem solved and the tools used to solve it.</p>
-      <code>Python</code> <code>Airflow</code> <code>SQL Server</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔹 Project Name</h3>
-      <p>One-line description: the data problem solved and the tools used to solve it.</p>
-      <code>Kestra</code> <code>Docker</code> <code>Power BI</code>
-    </td>
-  </tr>
-</table>
 
 <p align="center"><i>📌 More on my <a href="https://github.com/YasinSaberi?tab=repositories">pinned repositories</a></i></p>
 
